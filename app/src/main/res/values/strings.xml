@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MCBD Glass</string>
+    <string name="tagline">Next-Gen Glassmorphic Messaging</string>
+    <string name="google_sign_in">Continue with Google</string>
+    <string name="chats_title">Messages</string>
+    <string name="channels_title">Glass Channels</string>
+    <string name="direct_messages">Direct Messages</string>
+    <string name="profile_title">Profile &amp; Settings</string>
+</resources>

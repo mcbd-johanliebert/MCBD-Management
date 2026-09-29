@@ -1,0 +1,8 @@
+# MCBD Glass Messenger Configuration Example
+# Copy this file to local.properties or override via environment
+sdk.dir=/path/to/Android/Sdk
+SUPABASE_URL=https://cvppveogubeudebsmazd.supabase.co
+SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
+GOOGLE_WEB_CLIENT_ID=YOUR_GOOGLE_WEB_CLIENT_ID
+GOOGLE_WEB_CLIENT_SECRET=YOUR_GOOGLE_WEB_CLIENT_SECRET
+GOOGLE_ANDROID_CLIENT_ID=YOUR_GOOGLE_ANDROID_CLIENT_ID
